@@ -11,3 +11,5 @@ let segundaMusicaRemovida = playlist.pop()
 
 console.log(`depois do segundo pop ${playlist}`)
 console.log(`a musica removida foi ${segundaMusicaRemovida}`)
+
+//pop
